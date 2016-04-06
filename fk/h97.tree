@@ -1,0 +1,10 @@
+#Leaves
+SAD:REQ:COM:ANG
+#INodes
+IN1:IN2
+ANG root
+REQ IN1
+IN1 root
+IN2 IN1
+SAD IN2
+COM IN2

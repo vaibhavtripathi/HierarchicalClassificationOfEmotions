@@ -1,0 +1,5 @@
+paste test_run1_labels.txt run1.pred > run1.o
+paste test_run2_labels.txt run2.pred > run2.o
+paste test_run3_labels.txt run3.pred > run3.o
+paste test_run4_labels.txt run4.pred > run4.o
+paste test_run5_labels.txt run5.pred > run5.o

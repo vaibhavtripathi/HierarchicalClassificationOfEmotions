@@ -1,0 +1,5 @@
+python FlatNB.py train_run5_text.txt train_run5_labels.txt test_run5_text.txt run5.pred
+python FlatNB.py train_run4_text.txt train_run4_labels.txt test_run4_text.txt run4.pred
+python FlatNB.py train_run3_text.txt train_run3_labels.txt test_run3_text.txt run3.pred
+python FlatNB.py train_run2_text.txt train_run2_labels.txt test_run2_text.txt run2.pred
+python FlatNB.py train_run1_text.txt train_run1_labels.txt test_run1_text.txt run1.pred

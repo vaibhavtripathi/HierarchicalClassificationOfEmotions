@@ -1,0 +1,16 @@
+#Leaves
+A:Sa:D:F:Su+:Su-:H:N
+#INodes
+IN1:IN2:IN3:IN4
+A IN2
+D root
+F IN3
+IN4 root
+H IN1
+Su- IN2
+Su+ IN2
+IN1 IN3
+IN2 IN4
+N IN1
+Sa root
+IN3 IN4

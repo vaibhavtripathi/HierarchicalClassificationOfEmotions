@@ -1,0 +1,5 @@
+cat fold1_labels.txt fold2_labels.txt fold3_labels.txt fold4_labels.txt > train_run1_labels.txt
+cat fold1_labels.txt fold2_labels.txt fold3_labels.txt fold5_labels.txt > train_run2_labels.txt
+cat fold1_labels.txt fold2_labels.txt fold4_labels.txt fold5_labels.txt > train_run3_labels.txt
+cat fold1_labels.txt fold3_labels.txt fold4_labels.txt fold5_labels.txt > train_run4_labels.txt
+cat fold5_labels.txt fold2_labels.txt fold3_labels.txt fold4_labels.txt > train_run5_labels.txt

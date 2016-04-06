@@ -1,0 +1,10 @@
+cut -f1 test_run1.txt > test_run1_labels.txt
+cut -f2 test_run1.txt > test_run1_text.txt
+cut -f1 test_run2.txt > test_run2_labels.txt
+cut -f2 test_run2.txt > test_run2_text.txt
+cut -f1 test_run3.txt > test_run3_labels.txt
+cut -f2 test_run3.txt > test_run3_text.txt
+cut -f1 test_run4.txt > test_run4_labels.txt
+cut -f2 test_run4.txt > test_run4_text.txt
+cut -f1 test_run5.txt > test_run5_labels.txt
+cut -f2 test_run5.txt > test_run5_text.txt
